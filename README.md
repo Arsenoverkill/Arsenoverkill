@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T. Arsen</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-<img align="right"  width="500" src="https://media.giphy.com/media/GbH8vRmrNHdVZhouBt/giphy.gif?cid=ecf05e47fz4afx5cdkwa8r0xj2fvyygnvg8mimpe2p8p9whs&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right"  width="500" src="https://media.giphy.com/media/aBAfCc4b2UZiL3OuiU/giphy.gif?cid=790b7611epzqc1bz3a66d6pib3fs1ya0l8w7ozt5dr0u3b22&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 
 
